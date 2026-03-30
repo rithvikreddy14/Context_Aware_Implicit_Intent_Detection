@@ -5,4 +5,4 @@ transformers
 mistralai
 python-dotenv
 nltk
-gunicorngit add .
+gunicorngit
