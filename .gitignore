@@ -1,0 +1,12 @@
+# Node & Python environments
+frontend/node_modules/
+backend/venv/
+backend/__pycache__/
+
+# Environment variables
+.env
+frontend/.env
+backend/.env
+
+# Ignore the heavy local model (GitHub blocks files > 100MB)
+backend/models/
