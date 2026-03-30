@@ -2,7 +2,7 @@ Flask
 Flask-Cors
 torch
 transformers
-mistralai
+mistralai==0.4.2
 python-dotenv
 nltk
 gunicorn==21.2.0
