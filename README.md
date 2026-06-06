@@ -64,14 +64,9 @@ This makes the project not just a diagnostic NLP tool, but an **actionable commu
 
 ## 🖼️ Screenshots
 
-### Input Screen
-![Input Screen](https://via.placeholder.com/1200x600?text=Input+Screen+Placeholder)
-
 ### Analysis Dashboard
-![Analysis Dashboard](https://via.placeholder.com/1200x600?text=Analysis+Dashboard+Placeholder)
+![Analysis Dashboard](https://github.com/rithvikreddy14/Context_Aware_Implicit_Intent_Detection/blob/main/prediction.png)
 
-### Sentence Breakdown
-![Sentence Breakdown](https://via.placeholder.com/1200x600?text=Sentence+Breakdown+Placeholder)
 
 ---
 
