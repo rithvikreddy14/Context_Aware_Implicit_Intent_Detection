@@ -161,7 +161,7 @@ Make sure the following are installed:
 
 ```bash
 git clone https://github.com/rithvikreddy14/Context_Aware_Implicit_Intent_Detection
-cd Sarcasam-Tone-Analyzer
+cd Context_Aware_Implicit_Intent_Detection
 ```
 
 ### 2. Set Up the Backend
